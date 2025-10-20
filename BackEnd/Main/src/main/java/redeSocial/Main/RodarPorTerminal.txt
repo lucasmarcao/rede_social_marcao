@@ -1,0 +1,18 @@
+// pra rodar, na pasta projectAPI/BackEnd:
+
+1. Execute diretamente no PowerShell/CMD (sem Git Bash):
+powershell
+
+cd "C:\Users\Usuario\Documents\centro_vscode\zzz SOFTWARE GERAL DIVERSOS\REDE_SOCIAL_BD_2025_TRAB\projectAPI"
+& "C:\Program Files\Java\jdk-21\bin\java.exe" @C:\Users\Usuario\AppData\Local\Temp\cp_3dfukqefsyjt705y2mfwj01fp.argfile redeSocial.Main.MainApplication
+
+====================================
+/usr/bin/env C:\\Program\ Files\\Java\\jdk-21\\bin\\java.exe @C:\\Users\\Usuario\\AppData\\Local\\Temp\\cp_2rtcsoimgwcfjq2jx8b4igkht.argfile redeSocial.Main.MainApplication
+
+
+/usr/bin/env C:\\Program\ Files\\Java\\jdk-21\\bin\\java.exe @C:\\Users\\Usuario\\AppData\\Local\\Temp\\cp_2rtcsoimgwcfjq2jx8b4igkht.argfile redeSocial.Main.MainApplication
+
+
+/usr/bin/env C:\\Program\ Files\\Java\\jdk-21\\bin\\java.exe @C:\\Users\\Usuario\\AppData\\Local\\Temp\\cp_2rtcsoimgwcfjq2jx8b4igkht.argfile redeSocial.Main.MainApplication
+
+/usr/bin/env C:\\Program\ Files\\Java\\jdk-21\\bin\\java.exe @C:\\Users\\Usuario\\AppData\\Local\\Temp\\cp_2rtcsoimgwcfjq2jx8b4igkht.argfile redeSocial.Main.MainApplication
